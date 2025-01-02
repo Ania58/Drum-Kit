@@ -38,4 +38,4 @@ project/
     |-- tom4.png
     |-- snare.png
     |-- crash.png
-    |-- kick-bass.png
+    |-- kick.png
